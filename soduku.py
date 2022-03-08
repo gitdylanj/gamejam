@@ -69,3 +69,4 @@ while True:
         print("Invalid assignment. Please try again")
 
 #This is a test of github
+print('this is a test')
